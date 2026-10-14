@@ -39,7 +39,7 @@ catalogs, documentation projections, or managed verification evidence. Turbo
 caches deterministic builds and static checks across Git worktrees. After a package, lockfile, or managed-skill version change, run
 `npm run metadata:generate` before building.
 
-Repository invariants live in [AGENTS.md](AGENTS.md). Keep provider-specific
+Keep provider-specific
 protocols in adapters and shared CLI/MCP workflows in the application layer.
 
 ## Documentation website

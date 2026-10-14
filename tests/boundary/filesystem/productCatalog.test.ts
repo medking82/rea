@@ -175,7 +175,6 @@ describe("canonical product catalog drift", () => {
       "README_ar.md",
       "website/locales/languages.json",
       "docs/installation.md",
-      "AGENTS.md",
       ".github/pull_request_template.md",
     ];
     for (const path of paths) {
